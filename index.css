@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+}
+#menu {
+    margin-left: -40px;
+    list-style: none;
+}
+#home {
+    margin: 0 25%;
+}
